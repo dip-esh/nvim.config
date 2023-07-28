@@ -1,0 +1,5 @@
+require("options")
+require("vars")
+require("lazy-config")
+require("plugins")
+require("autocmd")
